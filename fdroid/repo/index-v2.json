@@ -14,16 +14,16 @@
       }
     },
     "address": "https://raw.githubusercontent.com/FSlawiet/fdroid/main/fdroid/repo",
-    "timestamp": 1678417908000
+    "timestamp": 1678418338000
   },
   "packages": {
     "io.comun": {
       "metadata": {
-        "added": 1678417902000,
+        "added": 1678418333000,
         "categories": [
           "Writing"
         ],
-        "lastUpdated": 1678417902000,
+        "lastUpdated": 1678418333000,
         "license": "NOASSERTION",
         "sourceCode": "https://github.com/FSLawiet/comunIO",
         "authorName": "FSLawiet",
@@ -37,7 +37,7 @@
       },
       "versions": {
         "36e520acb2fa1c6806b08b78fd3c172f9498a693a3dc3e32e5f8f0a63efcdb1a": {
-          "added": 1678417902000,
+          "added": 1678418333000,
           "file": {
             "name": "/comunio_untagged-81375f0203c1a8ee1c68.apk",
             "sha256": "36e520acb2fa1c6806b08b78fd3c172f9498a693a3dc3e32e5f8f0a63efcdb1a",
