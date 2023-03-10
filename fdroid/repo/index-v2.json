@@ -1,1 +1,100 @@
-{"repo": {"name": {"en-US": "F. S. Lawlet F-Droid Repo"}, "description": {"en-US": "This is a repository of apps to be used with F-Droid. Applications in this repository are either official binaries built by the original application developers, or are binaries built from source by the admin of f-droid.org using the tools on https://gitlab.com/fdroid."}, "icon": {"en-US": {"name": "/icons/icon.png", "sha256": "283fa4ec01e9528585933c235f8315862cf7f24b5bb2f5bff2e166d67b3f5fed", "size": 972}}, "address": "https://raw.githubusercontent.com/FSlawiet/fdroid/main/fdroid/repo", "timestamp": 1678411744000}, "packages": {"io.comun": {"metadata": {"added": 1678411491000, "categories": ["fdroid"], "lastUpdated": 1678411491000, "name": {"en-US": "Comun.IO"}, "preferredSigner": "90130a2f8cc356f0aaab61a99e87ba1617c4bc2d9d717f30696b18612376d5b0"}, "versions": {"97601388075044b968d62175fb7ae1f2aebb4f05cf95ebe0ad62c3d1ad7383f9": {"added": 1678411491000, "file": {"name": "/app_1234.apk", "sha256": "97601388075044b968d62175fb7ae1f2aebb4f05cf95ebe0ad62c3d1ad7383f9", "size": 5478192}, "manifest": {"nativecode": ["arm64-v8a", "armeabi-v7a", "x86", "x86_64"], "versionName": "0.0.1", "versionCode": 1, "usesSdk": {"minSdkVersion": 22, "targetSdkVersion": 30}, "signer": {"sha256": ["90130a2f8cc356f0aaab61a99e87ba1617c4bc2d9d717f30696b18612376d5b0"]}, "usesPermission": [{"name": "android.permission.INTERNET"}]}}}}}}
+{
+  "repo": {
+    "name": {
+      "en-US": "F. S. Lawlet F-Droid Repo"
+    },
+    "description": {
+      "en-US": "This is a repository of apps to be used with F-Droid. Applications in this repository are either official binaries built by the original application developers, or are binaries built from source by the admin of f-droid.org using the tools on https://gitlab.com/fdroid."
+    },
+    "icon": {
+      "en-US": {
+        "name": "/icons/icon.png",
+        "sha256": "283fa4ec01e9528585933c235f8315862cf7f24b5bb2f5bff2e166d67b3f5fed",
+        "size": 972
+      }
+    },
+    "address": "https://raw.githubusercontent.com/FSlawiet/fdroid/main/fdroid/repo",
+    "timestamp": 1678416823000
+  },
+  "packages": {
+    "io.comun": {
+      "metadata": {
+        "added": 1678416817000,
+        "categories": [
+          "fdroid"
+        ],
+        "lastUpdated": 1678416818000,
+        "name": {
+          "en-US": "Comun.IO"
+        },
+        "preferredSigner": "343a522c19bd00c7a99c7f9f92956d2f06f26de0f2aae21e1f48ebce3fa71417"
+      },
+      "versions": {
+        "36e520acb2fa1c6806b08b78fd3c172f9498a693a3dc3e32e5f8f0a63efcdb1a": {
+          "added": 1678416818000,
+          "file": {
+            "name": "/comunio_untagged-81375f0203c1a8ee1c68.apk",
+            "sha256": "36e520acb2fa1c6806b08b78fd3c172f9498a693a3dc3e32e5f8f0a63efcdb1a",
+            "size": 5482288
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "0.0.1",
+            "versionCode": 1,
+            "usesSdk": {
+              "minSdkVersion": 22,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "343a522c19bd00c7a99c7f9f92956d2f06f26de0f2aae21e1f48ebce3fa71417"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          }
+        },
+        "97601388075044b968d62175fb7ae1f2aebb4f05cf95ebe0ad62c3d1ad7383f9": {
+          "added": 1678416817000,
+          "file": {
+            "name": "/app_1234.apk",
+            "sha256": "97601388075044b968d62175fb7ae1f2aebb4f05cf95ebe0ad62c3d1ad7383f9",
+            "size": 5478192
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "0.0.1",
+            "versionCode": 1,
+            "usesSdk": {
+              "minSdkVersion": 22,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "90130a2f8cc356f0aaab61a99e87ba1617c4bc2d9d717f30696b18612376d5b0"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
