@@ -1,0 +1,118 @@
+{
+  "repo": {
+    "timestamp": 1678455877000,
+    "version": 20002,
+    "name": "F. S. Lawlet F-Droid Repo",
+    "icon": "icon.png",
+    "address": "https://raw.githubusercontent.com/FSlawiet/fdroid/main/fdroid/repo",
+    "description": "This is a repository of apps to be used with F-Droid. Applications in this repository are either official binaries built by the original application developers, or are binaries built from source by the admin of f-droid.org using the tools on https://gitlab.com/fdroid."
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "authorName": "FSLawiet",
+      "categories": [
+        "Writing"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "1",
+      "description": "Um app comunista.\n",
+      "license": "NOASSERTION",
+      "name": "Comun.IO",
+      "sourceCode": "https://github.com/FSLawiet/comunIO",
+      "added": 1678455871000,
+      "packageName": "io.comun",
+      "lastUpdated": 1678455873000,
+      "localized": {
+        "en-US": {
+          "whatsNew": "Take a look at the assets to download and install this app."
+        }
+      }
+    }
+  ],
+  "packages": {
+    "io.comun": [
+      {
+        "added": 1678455871000,
+        "apkName": "comunio_untagged-6a6f1f97ab74701e9876.apk",
+        "hash": "25275084dcd3bb3bdb5a9a642df1720a953bc0165852d4b8d256b611ef910e7e",
+        "hashType": "sha256",
+        "minSdkVersion": 22,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "io.comun",
+        "sig": "b54fbbda4ebed87b3cd01b68ca419f67",
+        "signer": "343a522c19bd00c7a99c7f9f92956d2f06f26de0f2aae21e1f48ebce3fa71417",
+        "size": 13067854,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 1,
+        "versionName": "0.0.1"
+      },
+      {
+        "added": 1678455872000,
+        "apkName": "comunio_untagged-81375f0203c1a8ee1c68.apk",
+        "hash": "36e520acb2fa1c6806b08b78fd3c172f9498a693a3dc3e32e5f8f0a63efcdb1a",
+        "hashType": "sha256",
+        "minSdkVersion": 22,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "io.comun",
+        "sig": "b54fbbda4ebed87b3cd01b68ca419f67",
+        "signer": "343a522c19bd00c7a99c7f9f92956d2f06f26de0f2aae21e1f48ebce3fa71417",
+        "size": 5482288,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 1,
+        "versionName": "0.0.1"
+      },
+      {
+        "added": 1678455873000,
+        "apkName": "comunio_untagged-e726e6b6e3def9d0601f.apk",
+        "hash": "25275084dcd3bb3bdb5a9a642df1720a953bc0165852d4b8d256b611ef910e7e",
+        "hashType": "sha256",
+        "minSdkVersion": 22,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "io.comun",
+        "sig": "b54fbbda4ebed87b3cd01b68ca419f67",
+        "signer": "343a522c19bd00c7a99c7f9f92956d2f06f26de0f2aae21e1f48ebce3fa71417",
+        "size": 13067854,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 1,
+        "versionName": "0.0.1"
+      }
+    ]
+  }
+}

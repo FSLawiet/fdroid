@@ -25,7 +25,6 @@ elif [ $EXIT_CODE -eq 0 ]; then
     git config --global user.name 'github-actions'
     git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
 
-    git pull
     git add .
     git commit -m"Automated update"
     git push
