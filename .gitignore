@@ -6,7 +6,10 @@ out.txt
 keystore.p12
 config.yml
 fdroid/tmp
+fdroid/stats
+fdroid/srclibs
 fdroid/repo/status
 fdroid/metadata/**/phoneScreenshots
-
+fdroid/logs
+fdroid/unsigned
 metascoop/metascoop
