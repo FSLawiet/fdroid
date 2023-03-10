@@ -1,6 +1,6 @@
 sample:
   git: https://github.com/FSLawiet/sample-quasar-cordova
-  name: "Test
+  name: "Test"
   description: |
     Um app de teste
 
@@ -8,6 +8,7 @@ sample:
   # you can use any name here, but you should look at the existing categories first
   categories:
     - Writing
+
 comunio:
   git: https://github.com/FSLawiet/comunIO
   name: "Comun.IO"
