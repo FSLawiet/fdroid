@@ -1,6 +1,16 @@
-notality:
+sample:
+  git: https://github.com/FSLawiet/sample-quasar-cordova
+  name: "Test
+  description: |
+    Um app de teste
+
+  # As described on https://f-droid.org/en/docs/Build_Metadata_Reference/#Categories,
+  # you can use any name here, but you should look at the existing categories first
+  categories:
+    - Writing
+comunio:
   git: https://github.com/FSLawiet/comunIO
-  name: "Notality"
+  name: "Comun.IO"
   description: |
     Um app comunista.
 
