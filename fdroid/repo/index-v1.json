@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1684292088000,
+    "timestamp": 1684378462000,
     "version": 20002,
     "name": "F. S. Lawlet F-Droid Repo",
     "icon": "icon.png",
@@ -23,9 +23,9 @@
       "license": "NOASSERTION",
       "name": "Comun.IO",
       "sourceCode": "https://github.com/FSLawiet/comunIO",
-      "added": 1684292080000,
+      "added": 1684378454000,
       "packageName": "io.comun",
-      "lastUpdated": 1684292082000,
+      "lastUpdated": 1684378456000,
       "localized": {
         "en-US": {
           "whatsNew": "Take a look at the assets to download and install this app."
@@ -36,7 +36,7 @@
   "packages": {
     "io.comun": [
       {
-        "added": 1684292080000,
+        "added": 1684378454000,
         "apkName": "comunio_untagged-6a6f1f97ab74701e9876.apk",
         "hash": "25275084dcd3bb3bdb5a9a642df1720a953bc0165852d4b8d256b611ef910e7e",
         "hashType": "sha256",
@@ -62,7 +62,7 @@
         "versionName": "0.0.1"
       },
       {
-        "added": 1684292080000,
+        "added": 1684378455000,
         "apkName": "comunio_untagged-81375f0203c1a8ee1c68.apk",
         "hash": "36e520acb2fa1c6806b08b78fd3c172f9498a693a3dc3e32e5f8f0a63efcdb1a",
         "hashType": "sha256",
@@ -88,7 +88,7 @@
         "versionName": "0.0.1"
       },
       {
-        "added": 1684292081000,
+        "added": 1684378456000,
         "apkName": "comunio_untagged-e726e6b6e3def9d0601f.apk",
         "hash": "25275084dcd3bb3bdb5a9a642df1720a953bc0165852d4b8d256b611ef910e7e",
         "hashType": "sha256",
@@ -114,7 +114,7 @@
         "versionName": "0.0.1"
       },
       {
-        "added": 1684292082000,
+        "added": 1684378456000,
         "apkName": "comunio_v0.0.1.apk",
         "hash": "25275084dcd3bb3bdb5a9a642df1720a953bc0165852d4b8d256b611ef910e7e",
         "hashType": "sha256",
