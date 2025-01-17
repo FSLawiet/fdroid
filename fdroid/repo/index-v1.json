@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1732159236000,
+    "timestamp": 1737082945000,
     "version": 20002,
     "name": "F. S. Lawlet F-Droid Repo",
     "icon": "icon.png",
@@ -12,6 +12,17 @@
     "uninstall": []
   },
   "apps": [
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "categories",
+      "added": 1737082940000,
+      "packageName": "bf9810a6ab9fd02651b70e63a4ff351be28e0a9f8455e15801b2695915d014c7",
+      "lastUpdated": 1737082940000
+    },
     {
       "authorName": "FSLawiet",
       "categories": [
@@ -25,7 +36,7 @@
       "sourceCode": "https://github.com/FSLawiet/comunIO",
       "added": 1732159230000,
       "packageName": "io.comun",
-      "lastUpdated": 1732159231000,
+      "lastUpdated": 1737082939000,
       "localized": {
         "en-US": {
           "whatsNew": "Take a look at the assets to download and install this app."
@@ -34,9 +45,20 @@
     }
   ],
   "packages": {
+    "bf9810a6ab9fd02651b70e63a4ff351be28e0a9f8455e15801b2695915d014c7": [
+      {
+        "added": 1737082940000,
+        "apkName": "categories.txt",
+        "hash": "bf9810a6ab9fd02651b70e63a4ff351be28e0a9f8455e15801b2695915d014c7",
+        "hashType": "sha256",
+        "packageName": "bf9810a6ab9fd02651b70e63a4ff351be28e0a9f8455e15801b2695915d014c7",
+        "size": 15,
+        "versionName": "bf9810a"
+      }
+    ],
     "io.comun": [
       {
-        "added": 1732159230000,
+        "added": 1737082939000,
         "apkName": "comunio_untagged-6a6f1f97ab74701e9876.apk",
         "hash": "25275084dcd3bb3bdb5a9a642df1720a953bc0165852d4b8d256b611ef910e7e",
         "hashType": "sha256",
@@ -88,7 +110,7 @@
         "versionName": "0.0.1"
       },
       {
-        "added": 1732159231000,
+        "added": 1737082939000,
         "apkName": "comunio_untagged-e726e6b6e3def9d0601f.apk",
         "hash": "25275084dcd3bb3bdb5a9a642df1720a953bc0165852d4b8d256b611ef910e7e",
         "hashType": "sha256",
