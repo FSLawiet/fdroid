@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1738465393000,
+    "timestamp": 1738551791000,
     "version": 20002,
     "name": "F. S. Lawlet F-Droid Repo",
     "icon": "icon.png",
@@ -36,7 +36,7 @@
       "sourceCode": "https://github.com/FSLawiet/comunIO",
       "added": 1732159230000,
       "packageName": "io.comun",
-      "lastUpdated": 1738465388000,
+      "lastUpdated": 1738551786000,
       "localized": {
         "en-US": {
           "whatsNew": "Take a look at the assets to download and install this app."
@@ -58,7 +58,7 @@
     ],
     "io.comun": [
       {
-        "added": 1738465387000,
+        "added": 1738551785000,
         "apkName": "comunio_untagged-6a6f1f97ab74701e9876.apk",
         "hash": "25275084dcd3bb3bdb5a9a642df1720a953bc0165852d4b8d256b611ef910e7e",
         "hashType": "sha256",
@@ -110,7 +110,7 @@
         "versionName": "0.0.1"
       },
       {
-        "added": 1738465388000,
+        "added": 1738551786000,
         "apkName": "comunio_untagged-e726e6b6e3def9d0601f.apk",
         "hash": "25275084dcd3bb3bdb5a9a642df1720a953bc0165852d4b8d256b611ef910e7e",
         "hashType": "sha256",
