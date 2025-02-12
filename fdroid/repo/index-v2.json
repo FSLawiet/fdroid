@@ -14,54 +14,16 @@
       }
     },
     "address": "https://raw.githubusercontent.com/FSlawiet/fdroid/main/fdroid/repo",
-    "timestamp": 1739243085000,
-    "categories": {
-      "Writing": {
-        "name": {
-          "en-US": "Writing"
-        }
-      },
-      "fdroid": {
-        "name": {
-          "en-US": "fdroid"
-        }
-      }
-    }
+    "timestamp": 1739329511000
   },
   "packages": {
-    "bf9810a6ab9fd02651b70e63a4ff351be28e0a9f8455e15801b2695915d014c7": {
-      "metadata": {
-        "added": 1737082940000,
-        "categories": [
-          "fdroid"
-        ],
-        "lastUpdated": 1737082940000,
-        "name": {
-          "en-US": "categories"
-        }
-      },
-      "versions": {
-        "bf9810a6ab9fd02651b70e63a4ff351be28e0a9f8455e15801b2695915d014c7": {
-          "added": 1737082940000,
-          "file": {
-            "name": "/categories.txt",
-            "sha256": "bf9810a6ab9fd02651b70e63a4ff351be28e0a9f8455e15801b2695915d014c7",
-            "size": 15
-          },
-          "manifest": {
-            "versionName": "bf9810a",
-            "versionCode": 0
-          }
-        }
-      }
-    },
     "io.comun": {
       "metadata": {
-        "added": 1732159230000,
+        "added": 1739329505000,
         "categories": [
           "Writing"
         ],
-        "lastUpdated": 1739243080000,
+        "lastUpdated": 1739329506000,
         "license": "NOASSERTION",
         "sourceCode": "https://github.com/FSLawiet/comunIO",
         "authorName": "FSLawiet",
@@ -75,7 +37,7 @@
       },
       "versions": {
         "25275084dcd3bb3bdb5a9a642df1720a953bc0165852d4b8d256b611ef910e7e": {
-          "added": 1732159231000,
+          "added": 1739329506000,
           "file": {
             "name": "/comunio_v0.0.1.apk",
             "sha256": "25275084dcd3bb3bdb5a9a642df1720a953bc0165852d4b8d256b611ef910e7e",
@@ -107,7 +69,7 @@
           }
         },
         "36e520acb2fa1c6806b08b78fd3c172f9498a693a3dc3e32e5f8f0a63efcdb1a": {
-          "added": 1732159230000,
+          "added": 1739329505000,
           "file": {
             "name": "/comunio_untagged-81375f0203c1a8ee1c68.apk",
             "sha256": "36e520acb2fa1c6806b08b78fd3c172f9498a693a3dc3e32e5f8f0a63efcdb1a",
