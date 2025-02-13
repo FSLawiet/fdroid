@@ -14,16 +14,54 @@
       }
     },
     "address": "https://raw.githubusercontent.com/FSlawiet/fdroid/main/fdroid/repo",
-    "timestamp": 1739329511000
+    "timestamp": 1739415873000,
+    "categories": {
+      "Writing": {
+        "name": {
+          "en-US": "Writing"
+        }
+      },
+      "fdroid": {
+        "name": {
+          "en-US": "fdroid"
+        }
+      }
+    }
   },
   "packages": {
+    "bf9810a6ab9fd02651b70e63a4ff351be28e0a9f8455e15801b2695915d014c7": {
+      "metadata": {
+        "added": 1739415868000,
+        "categories": [
+          "fdroid"
+        ],
+        "lastUpdated": 1739415868000,
+        "name": {
+          "en-US": "categories"
+        }
+      },
+      "versions": {
+        "bf9810a6ab9fd02651b70e63a4ff351be28e0a9f8455e15801b2695915d014c7": {
+          "added": 1739415868000,
+          "file": {
+            "name": "/categories.txt",
+            "sha256": "bf9810a6ab9fd02651b70e63a4ff351be28e0a9f8455e15801b2695915d014c7",
+            "size": 15
+          },
+          "manifest": {
+            "versionName": "bf9810a",
+            "versionCode": 0
+          }
+        }
+      }
+    },
     "io.comun": {
       "metadata": {
         "added": 1739329505000,
         "categories": [
           "Writing"
         ],
-        "lastUpdated": 1739329506000,
+        "lastUpdated": 1739415868000,
         "license": "NOASSERTION",
         "sourceCode": "https://github.com/FSLawiet/comunIO",
         "authorName": "FSLawiet",
