@@ -14,7 +14,7 @@
       }
     },
     "address": "https://raw.githubusercontent.com/FSlawiet/fdroid/main/fdroid/repo",
-    "timestamp": 1741058620000,
+    "timestamp": 1741144663000,
     "categories": {
       "Writing": {
         "name": {
@@ -61,7 +61,7 @@
         "categories": [
           "Writing"
         ],
-        "lastUpdated": 1741058614000,
+        "lastUpdated": 1741144658000,
         "license": "NOASSERTION",
         "sourceCode": "https://github.com/FSLawiet/comunIO",
         "authorName": "FSLawiet",
